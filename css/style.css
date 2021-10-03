@@ -313,12 +313,12 @@ figcaption p {
   color: white;
   background-image: linear-gradient(rgba(0 0 0 / 80%), rgba(0 0 0 / 80%)), url('../assets/images/hero-truck-pic.jpg');
   background-size: cover;
-  background-position: center center;
+  background-position: center;
   background-repeat: no-repeat;
   background-attachment: fixed;
 }
 
-.ho-hero-sec h2 {
+.ho-hero-sec p {
   max-width: 60ch;
   min-width: 20ch;
   padding: 1rem;
