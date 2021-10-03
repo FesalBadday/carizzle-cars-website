@@ -310,7 +310,7 @@ figcaption p {
   justify-content: center;
   align-items: center;
   text-align: center;
-  color: white;
+  color: #ffffff;
   background-image: linear-gradient(rgba(0 0 0 / 80%), rgba(0 0 0 / 80%)), url('../assets/images/hero-truck-pic.jpg');
   background-size: cover;
   background-position: center;
