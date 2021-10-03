@@ -24,5 +24,5 @@ function closeNav() {
   Headhero.style.top = "39%";
 
   const heroSec = document.getElementById("ho-hero-sec");
-  heroSec.style.height = "100vh";
+  heroSec.style.height = "115vh";
 }
