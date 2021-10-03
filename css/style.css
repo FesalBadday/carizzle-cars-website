@@ -441,7 +441,8 @@ footer ul {
   position: absolute;
   top: 0;
   display: none;
-  background-color: #000000cc;
+  background-color: #000000;
+  z-index: 1;
 }
 
 .bi-list {
