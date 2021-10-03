@@ -1,4 +1,4 @@
-# CPNT 260 Assignment 2 - Services, Info, Team Members, or Product Page
+# CPNT 260 Assignment 4 - Landing Page with a Hero Section
 
 ---
 
@@ -15,7 +15,7 @@
 
 **Issues :**
 
- - Bugs
+ - A bug that I ran into was getting the Hamburger menu to stay on top of everything because my h1 was overlapping with it, I fixed the issue first by using JavaScript, whenever the menu is toggled then it changes the value of ```top: 39%;``` to ```top: 65%;``` so it pushes it down more and when the menu is closed then it gets back normal, I did not like this solution so instead I just ended up adding ```z-index: 1;``` to my Hamburger menu so now it will always stay on top of everything. What I learned from that is to try and find other solutions in future, instead of adding many lines of code to fix the simple issues I can just fix them with 1 line only.
 
 ---
 
@@ -48,3 +48,4 @@
 - Hero Section Image of [Truck](https://www.pexels.com/photo/single-cab-pickup-truck-797570/) By [Tina Nord](https://www.pexels.com/@nord6) From [Pexels](https://www.pexels.com). [License](https://www.pexels.com/license)
 - Image of [Sedan Car](https://icons8.com/icon/M7rsQZPSFxT3/car), [Sport Car](https://icons8.com/icon/01AFKhkcnxWN/car), [VAN Car](https://icons8.com/icon/GAr4K7Zw5dQG/car), [Truck Car](https://icons8.com/icon/xMmpMn8gsZtS/pickup-truck) By [itim1201](https://icons8.com/icons/authors/ZzOW2jPPMobx/itim1201) From [Icons8](https://www.icons8.com). [License](https://www.icons8.com/license)
 - [Google Maps Embed API](https://developers.google.com/maps/documentation/embed/get-started) From [Google Maps Platform](https://developers.google.com/maps). [License](https://developers.google.com/admin-sdk/licensing/reference/rest)
+- Form By [Formspree](https://formspree.io/)
