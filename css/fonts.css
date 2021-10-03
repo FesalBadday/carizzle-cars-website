@@ -100,10 +100,10 @@ figcaption p {
   font-style: italic;
 }
 
-figcaption p:hover {
+/* figcaption p:hover {
   font-family: 'Yaldevi', sans-serif;
   text-shadow: 1px 1px 1px #8a2be2;
-}
+} */
 
 /* Home Page */
 
