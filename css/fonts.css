@@ -108,7 +108,8 @@ figcaption p:hover {
 /* Home Page */
 
 .ho-hero-sec p {
-  font-size: 1.7rem;
+  /* clamp(MIN, VAL, MAX) */
+  font-size: clamp(1.5rem, 2vw, 2.5rem);
 }
 
 .ho-hero-sec .ho-hero-btn {
