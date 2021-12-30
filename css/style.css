@@ -60,16 +60,16 @@ h1:hover {
 }
 
 .ab-img {
-  max-width: 40%;
+  max-width: 35%;
 }
 
 .ab-pano-img {
-  max-width: 100%;
+  width: 100%;
 }
 
 .ab-section p {
   min-width: 20ch;
-  max-width: 75ch;
+  max-width: 55ch;
   padding: 0rem 1rem;
   text-shadow: 1px 1px 1px #8a2be2;
 }
@@ -227,7 +227,7 @@ h4 {
 }
 
 figure {
-  max-width: 35rem;
+  max-width: 30rem;
   display: flex;
   flex-direction: column;
   margin: 0 1rem 0;
@@ -358,7 +358,7 @@ figcaption p {
   flex-direction: column;
   justify-content: space-evenly;
   background-color: #f2f2f2c9;
-  width: 65%;
+  width: 50%;
   min-width: 46ch;
   height: 96.5ch;
   padding: 1rem;
