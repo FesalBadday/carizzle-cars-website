@@ -1,4 +1,4 @@
-# CPNT 260 Assignment 4 - Landing Page with a Hero Section
+# Landing Page with a Hero Section
 
 ---
 
